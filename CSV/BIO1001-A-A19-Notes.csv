@@ -1,0 +1,6 @@
+Prenom,Nom,ID,courriel,Matricule,devoir_1,devoir_2,devoir_3,rapport_1,rapport_2,rapport_3,Participation,date
+One,One,P1234567,one@address.com,123456,9.09,9.25,9.50,17.35,14.32,16.13,6.70,1576807843
+Two,Two,P2345678,two@address.com,234567,8.00,8.00,8.00,14.05,13.89,19.38,9.60,1576807843
+Three,Three,P3456789,three@address.com,345678,9.09,7.50,9.50,16.85,12.11,12.25,6.70,1576807843
+Four,Four,P4567890,four@address.com,4567890,6.82,5.25,3.50,16.30,14.63,16.75,8.10,1576807843
+Five,Five,P5678901,five@address.com,5678901,8.41,7.25,7.25,16.30,15.26,16.75,9.50,1576807843
